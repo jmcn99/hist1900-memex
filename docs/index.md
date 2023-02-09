@@ -19,7 +19,8 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 ## **map of content**
 
-*TODO: INSERT GRAPH VIEW HERE*
+![[graphHIST1900.gif]]
+
 
 ### **source notes**
 
