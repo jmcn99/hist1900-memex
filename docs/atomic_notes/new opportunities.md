@@ -1,5 +1,5 @@
 ---
-Title: PUT THE TITLE OF NOTE HERE
+Title: new opportunities
 date: 2023-02-06
 type: literature
 project:

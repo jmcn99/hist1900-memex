@@ -1,5 +1,5 @@
 ---
-Title: PUT THE TITLE OF NOTE HERE
+Title: digital signatures and book consistency
 date: 2023-02-08
 type: permanent
 project:

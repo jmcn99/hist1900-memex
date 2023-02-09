@@ -24,31 +24,56 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 ### **source notes**
 
 **class resources**
+
 - [[@bookLab]]
+
 - [[@bushWeMayThink1945]]
+
 - [[@coopersmithFaxedRiseFall2015]]
+
 - [[@standageTheVictorianInternet1998]]
 
 **other resources**
+
 - [[@vanoorschotPublicKeyCryptography2022]]
 
 ### **thoughts**
 
 **data** - data integrity - data security
+
 - [[data integrity]]
+
 - [[fax machine data integrity]]
+
 - [[book consistency]]
+
 - [[digital signatures and book consistency]]
 
+
 **technology** - technologies turnover rate - programming and algorithms prior to modern computer programming - history of technology
+
 - [[physical search algorithms]]
+
 - [[the definition of a book]]
+
 - [[the amount of different printing presses]]
+
 - [[recent technologies quickly become obsolete]]
+
 - [[blackboxing]]
 
+- [[envisioning new technologies]]
+
+- [[successful technologies being envisioned]]
+
+
 **culture and technology** - how culture relates to how technology evolved and was developed
+
 - [[cultural bias]]
+
+- [[unwilling to look into electric telegraphs]]
+
+- [[new opportunities]]
 
 
 ---

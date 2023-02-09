@@ -1,5 +1,5 @@
 ---
-Title: PUT THE TITLE OF NOTE HERE
+Title: unwilling to look into electric telegraphs
 date: 2023-02-09
 type: permanent
 project:
