@@ -1,13 +1,13 @@
-# joseph mcnamara's personal memex.
+# **joseph mcnamara's personal memex.**
 ---
 
-## opening remarks
+## **opening remarks**
 
 this memex is my attempt to tie together a history class with my interest in computer science. originally, when joining this class I figured it would be a more modern history of the internet, starting around the first 'actual' internet. soon, i discovered why this class is part of the history department, and not computer science. 
 
 therefore, i decided to embrace it, and with this memex attempt to create the connections i originally enrolled in this class to discover. I have brought in article(s) from my other classes, such as my computer security course, in order to relate the required readings from this class to my other academic research. 
 
-#### current focus
+#### **current focus**
 
 currently, i have found many relations and interests within **data integrity**. this interest was originally sparked, at the same time, by the [[@bookLab]] and by my intro to cybersecurity course. understanding *why* data integrity is important, how different mediums change the integrity of the same information, and what tools were being used (information aquired from this class) and what we are currently using (information aquired from other classes / outside resources) to ensure data integrity, is currently where my thoughts lie. 
 
@@ -17,11 +17,11 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 ---
 
-## map of content
+## **map of content**
 
 *TODO: INSERT GRAPH VIEW HERE*
 
-### source notes
+### **source notes**
 
 **class resources**
 - [[@bookLab]]
@@ -32,7 +32,7 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 **other resources**
 - [[@vanoorschotPublicKeyCryptography2022]]
 
-### thoughts
+### **thoughts**
 
 **data** - data integrity - data security
 - [[data integrity]]
@@ -53,7 +53,7 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 ---
 
-## todo
+## **todo**
 
 - start making connections about data security, a topic i would like to relate to this class
 	- a large topic, so i would like to wait until i have my first memex evaluated before i begin making connections about it, so i know i'm on the right track. 
