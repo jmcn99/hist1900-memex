@@ -5,7 +5,7 @@
 
 this memex is my attempt to tie together a history class with my interest in computer science. originally, when joining this class I figured it would be a more modern history of the internet, starting around the first 'actual' internet. soon, i discovered why this class is part of the history department, and not computer science. 
 
-therefore, i decided to embrace it, and with this memex attempt to create the connections i originally enrolled in this class to discover. I have brought in article(s) from my other classes, such as my computer security course, in order to relate the required readings from this class to my other academic research. 
+i decided to embrace it. with this memex i will attempt to create the connections i originally enrolled in this class to discover. I have brought in article(s) from my other classes, such as my computer security course, in order to relate the readings from this class to my other academic research. 
 
 #### **current focus**
 
