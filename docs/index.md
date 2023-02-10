@@ -85,3 +85,7 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 	- a large topic, so i would like to wait until i have my first memex evaluated before i begin making connections about it, so i know i'm on the right track. 
 - for fun, i have started using some definitions from "chatGPT". this is something that has also been very prominant on my mind and a tool that has proved to be very useful.
 	- i would like to find some articles about AI and relate it to the latter parts of this course.
+- figure out if i'm writing my notes correctly
+	- i would like to find ways to make my thoughts flow more naturally. i find myself looking for connections rather than fully engaging in the reading and letting the connections come to me after / during. 
+- possibly look ahead at all the coming readings, and plan out some of my own in order to tailor what i'm reading and planning on reading to the direction i want my memex to go.
+- find other students in my class i can collaborate with and share memex notes.
