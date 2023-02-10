@@ -13,7 +13,7 @@ currently, i have found many relations and interests within **data integrity**. 
 
 for some reason, i have also taken a strong interest into **the definition of a book**, and relating it to computer science. maybe because books have become very digitilized recently? can you even digitalize a book? what even is [[the definition of a book]]?
 
-also, i have more thoughts that i am interested into diving deeper on, like i have been on data integrity, but i am waiting until my first memex evaluation to begin. **i would like to know that i am on the right track so i can make the best possible connections.**
+also, i have more thoughts that i am interested into diving deeper on, like i have been with data integrity, but i am waiting until my first memex evaluation to begin. specifically, i would like to relate computer and internet security to the history of the internet. this will be my coming focus after this evaluation, but **i would like to know that i am on the right track so i can make the best possible connections.**
 
 ---
 
