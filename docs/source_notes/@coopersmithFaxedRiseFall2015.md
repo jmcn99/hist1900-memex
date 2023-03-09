@@ -24,7 +24,7 @@ Jonathan Coopersmith writes about the history and origin of the fax machine, as 
 
 ### Links
 [[cultural bias]]
-[[blackboxing]]
+[[blackbox]]
 [[successful technologies being envisioned]]
 [[recent technologies quickly become obsolete]]
 [[new opportunities]]

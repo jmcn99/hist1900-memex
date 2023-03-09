@@ -61,7 +61,7 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 - [[recent technologies quickly become obsolete]]
 
-- [[blackboxing]]
+- [[blackbox]]
 
 - [[envisioning new technologies]]
 
