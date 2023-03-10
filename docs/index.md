@@ -9,11 +9,7 @@ i decided to embrace it. with this memex i will attempt to create the connection
 
 #### **current focus**
 
-currently, i have found many relations and interests within **data integrity**. this interest was originally sparked, at the same time, by the [[@bookLab]] and by my intro to cybersecurity course. understanding *why* data integrity is important, how different mediums change the integrity of the same information, and what tools were being used (information aquired from this class) and what we are currently using (information aquired from other classes / outside resources) to ensure data integrity, is currently where my thoughts lie. 
-
-for some reason, i have also taken a strong interest into **the definition of a book**, and relating it to computer science. maybe because books have become very digitilized recently? can you even digitalize a book? what even is [[the definition of a book]]?
-
-also, i have more thoughts that i am interested into diving deeper on, like i have been with data integrity, but i am waiting until my first memex evaluation to begin. specifically, i would like to relate computer and internet security to the history of the internet. this will be my coming focus after this evaluation, but **i would like to know that i am on the right track so i can make the best possible connections.**
+currently, i am focused on privacy. this iteration of my memex has been heavily influenced by the book that i have just finished reading, ***permanent record*** by **edward snowden**. i have been enjoying thinking about the connections between privacy and early telegraphy networks.
 
 ---
 
@@ -34,9 +30,21 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 - [[@standageTheVictorianInternet1998]]
 
+- [[@AnotomyAISystem]]
+
+- [[@millerCablingTheAtlantic2016]]
+
+- [[@tullyVictorianEcologicalDisaster2009]]
+
+- [[@quevedoTelecommunicationsColonialRivalry2010]]
+
+
 **other resources**
 
 - [[@vanoorschotPublicKeyCryptography2022]]
+
+- [[@snowdenPermanentRecord2020]]
+
 
 ### **thoughts**
 
@@ -67,6 +75,10 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 - [[successful technologies being envisioned]]
 
+- [[books relationship to AI]]
+
+- [[recent technologies are centered around blackbox design]]
+
 
 **culture and technology** - how culture relates to how technology evolved and was developed
 
@@ -76,16 +88,31 @@ also, i have more thoughts that i am interested into diving deeper on, like i ha
 
 - [[new opportunities]]
 
+- [[ai consistency]]
+
+- [[will sustainable resources be found?]]
+
+- [[the rich accessing newer technologies first]]
+
+- [[tullys relation to technologies become obsolete]]
+
+- [[importance of personal privacy]]
+
+**privacy** - how personal privacy fits into the history of the internet
+
+- [[importance of personal privacy]]
+
+- [[digital privacy]]
+
+- [[blackboxing and privacy]]
+
+- [[personal telegraphs]]
+
 
 ---
 
 ## **todo**
 
-- start making connections about data security, a topic i would like to relate to this class
-	- a large topic, so i would like to wait until i have my first memex evaluated before i begin making connections about it, so i know i'm on the right track. 
-- for fun, i have started using some definitions from "chatGPT". this is something that has also been very prominant on my mind and a tool that has proved to be very useful.
-	- i would like to find some articles about AI and relate it to the latter parts of this course.
-- figure out if i'm writing my notes correctly
-	- i would like to find ways to make my thoughts flow more naturally. i find myself looking for connections rather than fully engaging in the reading and letting the connections come to me after / during. 
-- possibly look ahead at all the coming readings, and plan out some of my own in order to tailor what i'm reading and planning on reading to the direction i want my memex to go.
-- find other students in my class i can collaborate with and share memex notes.
+- tie in what i'm doing / reading into what the class is focusing on, rather than my own ideas. 
+	- better yet, tie my own ideas into what the class is focusing on, so i am able to keep  a balance and motivation to continue.
+- bring in more of my classmates memexes. (memi?)

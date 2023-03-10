@@ -4,8 +4,8 @@ date: 2023-03-09
 type: literature
 project:
 ---
-tags:: 
-projects::[[]]
+tags:: #privacy 
+projects::[[@snowdenPermanentRecord2020]]
 
 ---
 
@@ -23,4 +23,8 @@ While this type of person may not be the normal person, the work that these peop
 ---
 
 ### Related Links
+
+[[digital privacy]]
+[[blackboxing and privacy]]
+
 

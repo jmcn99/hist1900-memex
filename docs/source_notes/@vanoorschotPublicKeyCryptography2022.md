@@ -8,7 +8,7 @@ alias: ["Public Key Cryptography’s Impact on Society"]
 > - **Link:** [van Oorschot - 2022 - Public Key Cryptography’s Impact on Society How D.pdf](file:///Users/joemcnamara/Zotero/storage/CARPMQW3/van%20Oorschot%20-%202022%20-%20Public%20Key%20Cryptography’s%20Impact%20on%20Society%20How%20D.pdf)
 > - **Bibliography:** van Oorschot, PC. 2022 Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World. In:. Slayton, R (ed.). _Democratizing Cryptography_. 1st ed. New York, NY, USA: ACM. pp. 19–56. DOI: [https://doi.org/10.1145/3549993.3549997](https://doi.org/10.1145/3549993.3549997).
 ---
-Title: [use @full-cite-key]
+Title: [@vanoorschotPublicKeyCryptography2022]
 date: {{date}}
 type: reference
 project:
@@ -31,16 +31,14 @@ Lastly, I would like to tie my memex together with aspects of Computer Science, 
 
 ### Reference 
 
-Use the zotero integration: full reference command to add the bibliographic metadata. In the metadata block above, use the cite key (start typing @ and the surname you're after to get that correct) . Change the title of the note to the cite key, including the @ sign.
+Oorschot, Paul C. van. “Public Key Cryptography’s Impact on Society: How Diffie and Hellman Changed the World.” In _Democratizing Cryptography_, edited by Rebecca Slayton, 1st ed., 19–56. New York, NY, USA: ACM, 2022. [https://doi.org/10.1145/3549993.3549997](https://doi.org/10.1145/3549993.3549997).
 
 
 ---
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+This article details the history and impacts that Diffie and Hellmans discovery of public key cryptography had on the development of secure communication. van Oorschot details many examples of ideas that Diffie and Hellman had prior to their discovery, as well as the technologies that were able to be created after the discovery. Examples of these technologies include e-commerce, specifically the ability to send your credit card info securely over the internet, as well as simple tasks such as secure messaging channels, like WhatsApp.
 
 --- 
 
