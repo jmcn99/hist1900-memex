@@ -98,6 +98,8 @@ currently, i am focused on privacy. this iteration of my memex has been heavily 
 
 - [[importance of personal privacy]]
 
+- [[why is there a rivalry?]] ( in here is a link to another's memex. )
+
 **privacy** - how personal privacy fits into the history of the internet
 
 - [[importance of personal privacy]]

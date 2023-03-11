@@ -25,3 +25,4 @@ This article by Javier Márquez Quevedo details the political battles surroundin
 ### Links
 
 [[my extracted annotations for @quevedoTelecommunicationsColonialRivalry2010]]
+[[why is there a rivalry?]]
