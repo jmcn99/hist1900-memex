@@ -14,6 +14,7 @@ currently, i am focused on privacy. this iteration of my memex has been heavily 
 ---
 
 ## **map of content**
+	updated 03/10/23
 
 ![[graphHIST1900.gif]]
 
