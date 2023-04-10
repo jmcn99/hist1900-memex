@@ -14,7 +14,7 @@ in this current iteration of my memex, i focused a lot on the development of the
 ---
 
 ## **map of content**
-	updated 03/10/23
+	updated 04/10/23
 
 ![[graphHIST1900.gif]]
 
