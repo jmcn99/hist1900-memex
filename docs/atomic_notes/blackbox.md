@@ -5,7 +5,7 @@ type: literature
 project:
 ---
 tags:: #programming #blackbox #algorithms 
-projects::[[]]
+projects::[[@coopersmithFaxedRiseFall2015]]
 
 
 Blackboxing is the concept of being able to use a certain technology without understanding how it's inner workings function. This is something that I use very often in my programming projects, where designing functions with blackboxing in mind is very important. As a programmer, we want other programmers to be able to use our function with only the knowledge of what it does, and not how it actually works.

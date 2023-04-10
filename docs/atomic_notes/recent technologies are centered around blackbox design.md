@@ -4,7 +4,7 @@ date: 2023-03-09
 type: literature
 project:
 ---
-tags:: 
+tags:: #blackbox #obsolete-technologies #Technological-innovations 
 projects::[[@AnotomyAISystem]]
 
 Recent technologies are very much [[blackbox]] oriented. I believe that this is due firstly to the complex hardware side, but mainly the complex software that goes is the backbone of their functionality. 

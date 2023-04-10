@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
+tags::  #blackbox #privacy 
 projects::[[@AnotomyAISystem]]
 
 >The Echo is but an ‘ear’ in the home: a disembodied listening agent that never shows its deep connections to remote systems.

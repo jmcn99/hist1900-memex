@@ -4,7 +4,7 @@ date: 2023-02-08
 type: literature
 project:
 ---
-tags:: 
+tags:: #dataIntegrity #privacy #history #obsolete-technologies 
 projects::[[@coopersmithFaxedRiseFall2015]]
 
 

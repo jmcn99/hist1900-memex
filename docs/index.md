@@ -9,7 +9,7 @@ i decided to embrace it. with this memex i will attempt to create the connection
 
 #### **current focus**
 
-currently, i am focused on privacy. this iteration of my memex has been heavily influenced by the book that i have just finished reading, ***permanent record*** by **edward snowden**. i have been enjoying thinking about the connections between privacy and early telegraphy networks.
+in this current iteration of my memex, i focused a lot on the development of the web as we know it today. covering topics from the rise and fall of gopher, to the economics of the internet and how companies are making money. i did keep the privacy approach, moving towards a focus on pseudonyms and how they can be used in social media and beyond.
 
 ---
 
@@ -80,6 +80,17 @@ currently, i am focused on privacy. this iteration of my memex has been heavily 
 
 - [[recent technologies are centered around blackbox design]]
 
+- [[reponse to thoughts on AI - outward connection]] (link to anothers memex)
+
+- [[packet switching]]
+
+- [[how could gopher have survived?]]
+
+- [[why couldn't gopher have hypertext]]
+
+- [[unintentional blackboxing]]
+
+
 
 **culture and technology** - how culture relates to how technology evolved and was developed
 
@@ -101,6 +112,40 @@ currently, i am focused on privacy. this iteration of my memex has been heavily 
 
 - [[why is there a rivalry?]] ( in here is a link to another's memex. )
 
+- [[free services - outward connections]] (link to anothers memex)
+
+- [[will sustainable resources be found?]]
+
+- [[unhealthy communities]]
+
+- [[children having access to the internet]]
+
+- [[free speech removed from identity]]
+
+- [[loss of communities due to obsolete technologies]]
+
+- [[learning from mistakes]]
+
+- [[one connection bbs]]
+
+- [[rich and technologically adept getting access]]
+
+- [[rich NOT accessing certain new technologies first]]
+
+- [[dotcom crash]]
+
+- [[was the interest to further this technology or make money?]]
+
+- [[infinite scrolling algorithms]]
+
+- [[the rise of social media and the rise of misinformation]]
+
+- [[internet jobs]]
+
+- [[early users gatekeeping technology]]
+
+
+
 **privacy** - how personal privacy fits into the history of the internet
 
 - [[importance of personal privacy]]
@@ -111,11 +156,19 @@ currently, i am focused on privacy. this iteration of my memex has been heavily 
 
 - [[personal telegraphs]]
 
+- [[human aspect of cybersecurity]]
+
+- [[losing control of your digital identity]]
+
+- [[pseudonyms]]
+
+
+
 
 ---
 
-## **todo**
+# ToDo
 
-- tie in what i'm doing / reading into what the class is focusing on, rather than my own ideas. 
-	- better yet, tie my own ideas into what the class is focusing on, so i am able to keep  a balance and motivation to continue.
-- bring in more of my classmates memexes. (memi?)
+1. Ensure tagging structure is proper for my final journey
+2. Organize notes on final journey
+3. Do final journey :)

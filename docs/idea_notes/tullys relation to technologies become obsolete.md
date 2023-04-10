@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
+tags::  #technology #Technological-innovations #obsolete-technologies
 projects::[[@tullyVictorianEcologicalDisaster2009]]
 
 > [!quote|#ffd400] Highlight

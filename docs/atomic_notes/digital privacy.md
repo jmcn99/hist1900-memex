@@ -4,8 +4,8 @@ date: 2023-03-09
 type: literature
 project:
 ---
-tags:: 
-projects::[[]]
+tags:: #privacy #dataIntegrity #cybersecurity 
+projects::[[@vanoorschotPublicKeyCryptography2022]]
 
 digital privacy is the act of keeping your actions online private. This can come in many different forms. 
 
@@ -15,7 +15,7 @@ digital privacy is the act of keeping your actions online private. This can come
 ---
 ### Citational Information
 
-Link to the originating literature note.
+[[@vanoorschotPublicKeyCryptography2022]]
 
 ---
 

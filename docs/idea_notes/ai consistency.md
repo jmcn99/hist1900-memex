@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
+tags::  #ai #dataIntegrity 
 projects::[[@AnotomyAISystem]]
 
 ---

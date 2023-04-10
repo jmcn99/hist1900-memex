@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
+tags::  #ai #books #dataIntegrity 
 projects::[[@AnotomyAISystem]]
 
 >"At the bottom of the map is another kind of human resource: the history of human knowledge and capacity, which is also used to train and optimize artificial intelligence systems."

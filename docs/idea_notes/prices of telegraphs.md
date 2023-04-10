@@ -5,8 +5,8 @@ type: permanent
 project:
 ---
 
-tags::  
-projects::[[]]
+tags::  #culture #internet #economy
+projects::[[@standageTheVictorianInternet1998]]
 
 >“then prices stagnated at around one shilling per word in 1888, a price too expensive for many to pay. G” (Müller, 2016, p. 512) 
 

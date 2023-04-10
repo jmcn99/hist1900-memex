@@ -5,7 +5,7 @@ type: literature
 project:
 ---
 tags:: #Fax-machines #History #culture 
-projects::[[]]
+projects::[[@coopersmithFaxedRiseFall2015]]
 
 It is becoming a trend that newer technology quickly becomes obsolete. I believe since technology is becoming such a huge bussiness, specificially the sale of new technology, that there is large motivation from big companies to create new tech, making their old tech, which is not actually that old, obsolete. This would be in hopes of selling 'the latest model', with 'the newest features'. 
 

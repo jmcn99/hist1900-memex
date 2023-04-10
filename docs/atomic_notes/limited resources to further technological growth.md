@@ -4,7 +4,7 @@ date: 2023-03-09
 type: literature
 project:
 ---
-tags:: 
+tags:: #resources #Technological-innovations 
 projects::[[@AnotomyAISystem]] [[@tullyVictorianEcologicalDisaster2009]]
 
 

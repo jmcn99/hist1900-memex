@@ -4,8 +4,8 @@ date: 2023-02-06
 type: literature
 project:
 ---
-tags:: 
-projects::[[]]
+tags:: #books #culture #history
+projects::[[@bookLab]]
 
 
 What is the definition of a book? This is a question that is very difficult to answer. Is a book the story it contains? Or the actual paper itself? There are many answers to this question, but there are many counter examples that will contradict those answers. 

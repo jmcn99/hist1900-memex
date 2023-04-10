@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
+tags::  #books #dataIntegrity 
 projects::[[data integrity]] [[book consistency]] 
 
 With digital signatures, we now have a way to verify that what we are reading is what we are intending to read. This, in essence, solves the issues of book consistency, but only within the digital space. 

@@ -5,7 +5,7 @@ type: literature
 project:
 ---
 tags:: #books #culture #dataIntegrity 
-projects::[[]]
+projects::[[@bookLab]]
 
 How do we know that a book's contents have stayed the same over time? A written book can be changed, by replacing pages, erasing and rewriting parts of the book, or replacing the book all together. A digitally written book can be changed even easier. Take Google docs for example, where 5 people can edits 1 document at the same time. Sometimes, it is hard to tell if anything has been changed at all since the last time you have written in it. 
 

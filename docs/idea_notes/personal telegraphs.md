@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  #privacy 
-projects::[[]]
+tags::  #privacy #culture
+projects::[[@standageTheVictorianInternet1998]]
 
 In the early days, were telegraphs ever used for personal use, like communicating with a long distance partner? If so, I would imagine this was exclusive to the extremely wealthy. What were the [[digital privacy]] concerns when doing this?

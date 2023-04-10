@@ -5,7 +5,7 @@ type: permanent
 project:
 ---
 
-tags::  
-projects::[[]]
+tags::  #history #materials #economy 
+projects::[[@tullyVictorianEcologicalDisaster2009]]
 
 Will sustainable resources in replace of rare earth metals, like lithium, ever be found?
