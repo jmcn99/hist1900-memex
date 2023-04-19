@@ -39,15 +39,16 @@ in this current iteration of my memex, i focused a lot on the development of the
 
 - [[@quevedoTelecommunicationsColonialRivalry2010]]
 
-- [[good memex/hist1900-memex/docs/source_notes/@franaWebThereWas2004]]
+- [[hist1900-memex/hist1900-memex/docs/source_notes/@franaWebThereWas2004]]
 
 - [[good memex/hist1900-memex/docs/source_notes/@publisher11EvolutionInternet2016]]
 
-- [[good memex/hist1900-memex/docs/source_notes/@driscollBirthModemWorld2022]]
+- [[hist1900-memex/hist1900-memex/docs/source_notes/@driscollBirthModemWorld2022]]
 
-- [[good memex/hist1900-memex/docs/source_notes/@edwardsMySecretLife2022]]
+- [[@edwardsMySecretLife2022]]
 
-- [[good memex/hist1900-memex/docs/source_notes/@allebachBriefHistoryInternet2020]]
+- [[@allebachBriefHistoryInternet2020]]
+
 
 
 
