@@ -14,7 +14,7 @@ in this current iteration of my memex, i focused a lot on the development of the
 ---
 
 ## **map of content**
-	updated 04/10/23
+	updated 03/10/23
 
 ![[graphHIST1900.gif]]
 
@@ -38,6 +38,17 @@ in this current iteration of my memex, i focused a lot on the development of the
 - [[@tullyVictorianEcologicalDisaster2009]]
 
 - [[@quevedoTelecommunicationsColonialRivalry2010]]
+
+- [[good memex/hist1900-memex/docs/source_notes/@franaWebThereWas2004]]
+
+- [[good memex/hist1900-memex/docs/source_notes/@publisher11EvolutionInternet2016]]
+
+- [[good memex/hist1900-memex/docs/source_notes/@driscollBirthModemWorld2022]]
+
+- [[good memex/hist1900-memex/docs/source_notes/@edwardsMySecretLife2022]]
+
+- [[good memex/hist1900-memex/docs/source_notes/@allebachBriefHistoryInternet2020]]
+
 
 
 **other resources**
